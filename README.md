@@ -1,10 +1,6 @@
 # BayBalance
 
-
-<!--
-![GitHub Logo](/CASExplorer.png) 
--->
-[![Alt Text](https://imgur.com/bpYIeTk)
+![My Image](https://imgur.com/bpYIeTk)
 
 ##
 
